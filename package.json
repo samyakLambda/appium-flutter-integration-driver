@@ -95,9 +95,9 @@
    },
    "dependencies": {
       "@appium/base-driver": "^9.16.4",
-      "appium-adb": "^12.4.4",
+      "appium-adb": "github:LambdatestIncPrivate/appium-adb#appium-2.12.1",
       "appium-ios-device": "^2.7.20",
-      "appium-uiautomator2-driver": "^4.1.5",
+      "appium-uiautomator2-driver": "github:LambdatestIncPrivate/appium-uiautomator2-driver#appium-2.12.1",
       "appium-xcuitest-driver": "^9.1.2",
       "async-retry": "^1.3.3",
       "asyncbox": "^3.0.0",
